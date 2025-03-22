@@ -1,5 +1,5 @@
-﻿codigodeposito;Deposito
-1;01 - Central
-2;02 - Shooping A
-3;03 - Shooping B
-4;04 - Outleet
+﻿DEPOSITO;EMP;CORTO;CORTO;BANNER;COD;PLACE;Abr
+01 - Central;Gral;1;1;Online;ON;Depósito;01 ON
+02 - Shooping A;Emp1;2;2;Fisic;FS;Shooping;02 SH
+03 - Shooping B;Emp2;3;3;Fisic;FS;Shooping;03 SH
+04 - Outleet;Gral;4;4;Online;ON;Depósito;04 ON
